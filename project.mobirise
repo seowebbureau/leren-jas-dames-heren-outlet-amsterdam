@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Urban Leather AMP BLACK",
-    "currentPage": "Leren Jas Dames Heren Outlet Amsterdam.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "blackamp",
       "title": "BlackAMP",
@@ -35,7 +35,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "Leren Jas Dames Heren Outlet Amsterdam.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Leren Jas Dames Heren Outlet Amsterdam 2018 ",
